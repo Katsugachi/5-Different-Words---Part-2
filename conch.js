@@ -1,12 +1,10 @@
-(function() {
-    const targetId = 'rendering-border';
-    const rendering = "5 - Astronomy";
-    
-    window.addEventListener('load', function() {
-        const el = document.getElementById(targetId);
-        if (el) {
-            el.innerText = rendering;
-            el.style.display = "block";
-        }
-    });
-})();
+window.addEventListener('load', function() {
+    const el = document.getElementById('rendering-border');
+    if (el) {
+        el.innerText = "5 - Astronomy";
+        el.style.display = "block";
+        console.log("Text set successfully!");
+    } else {
+        console.log("Element not found!");
+    }
+});
