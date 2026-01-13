@@ -5,6 +5,6 @@ Sequel to 5 Different Words. Highly recommend you completely finish that one fir
 <br>
 start : https://katsugachi.github.io/5-Different-Words---Part-2/
 ### hints:
-word 4 - follow the red lines of link. don't overcomplicate things
-word 2 - google may help
-word 5 - a change in perspective is needed to adjust
+word 4 - follow the red lines of link. don't overcomplicate things<br>
+word 2 - google may help<br>
+word 5 - maybe a change in perspective might help.<br>
