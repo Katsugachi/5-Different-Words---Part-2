@@ -1,6 +1,6 @@
 <script>
 (function() {
-    const targetId = 'word-five';
+    const targetId = 'rendering-border';
     const rendering = "5 - Astronomy";
     function updateDisplay() {
         const zoom = window.devicePixelRatio;
