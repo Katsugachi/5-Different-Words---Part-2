@@ -1,4 +1,3 @@
-<script>
 (function() {
     const targetId = 'rendering-border';
     const rendering = "5 - Astronomy";
@@ -17,4 +16,3 @@
     window.addEventListener('resize', updateDisplay);
     window.addEventListener('load', updateDisplay);
 })();
-</script>
