@@ -10,3 +10,6 @@ word 2 - google helps, you need to search on a specific site. difficulty - 3.5<b
 word 3 - dev tools + cipher. difficulty - 2<br>
 word 4 - follow the red lines. don't overcomplicate things. difficulty - 4<br> 
 word 5 - tabs tabs tabs. difficulty - 3<br>
+
+## THERE WILL BE NO PART 3
+unless i can magically find 5 more creative ways to hide words
