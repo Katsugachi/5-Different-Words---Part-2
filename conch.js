@@ -1,3 +1,3 @@
-const msg = "NSAtIEFzdHJvbm9teQ==";
+const msg = "5 - Astronomy";
 
 fetch('index.html?data=' + msg);
