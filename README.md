@@ -5,10 +5,10 @@ Sequel to 5 Different Words. Highly recommend you completely finish that one fir
 <br>
 start : https://katsugachi.github.io/5-Different-Words---Part-2/
 ### hints:
-word 1 - this ones very hard, but hint: the image is a polyglot. difficulty - 5<br>
-word 2 - google helps, you need to search on imgur. difficulty - 3.5<br>
+word 1 - the image is a polyglot. difficulty - 5<br>
+word 2 - google helps, you need to search on an image site. difficulty - 3.5<br>
 word 3 - dev tools + cipher. difficulty - 2<br>
-word 4 - follow the red lines. don't overcomplicate things. No sign means addition (+). difficulty - 4<br> 
+word 4 - follow the red lines. No sign means addition (+). difficulty - 4<br> 
 word 5 - network tab. difficulty - 3<br>
 
 ## THERE WILL BE NO PART 3
